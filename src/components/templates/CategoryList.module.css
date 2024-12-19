@@ -1,0 +1,23 @@
+.list {
+    margin: 50px;
+}
+
+.list div {
+    display: flex;
+    margin: 20px;
+    padding: 15px;
+    border: 2px solid #eaeaea;
+    border-radius: 5px;
+}
+
+.list h5 {
+    margin-right: 10px;
+    font-size: 0.9rem;
+    width: 120px;
+}
+
+.list p {
+    width: 100%;
+    text-align: left;
+    color: #a62626;
+}
